@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""Hi.. There Welcome 🤣🤣🤣🤣\n Contact my Master @sangwanakshay for any kind of Help\n And also don't forget to Subscribe our Channel: <a href="https://t.me/joinchat/AAAAAEN3BL9qWqQpyfmWmw">📽 Movies On Demand</a>""", disable_web_page_preview=True)
+    await message.reply_text("""Hi..There Welcome 🤣🤣🤣🤣\nContact my Master @sangwanakshay for any kind of Help\nAnd also don't forget to Subscribe our Channel: <a href="https://t.me/joinchat/AAAAAEN3BL9qWqQpyfmWmw">📽 Movies On Demand</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
