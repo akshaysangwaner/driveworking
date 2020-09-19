@@ -96,7 +96,7 @@ async def incoming_message_f(client, message):
             await i_m_sefg.edit_text(err_message)
     else:
         await i_m_sefg.edit_text(
-            "**FCUK**! wat have you entered. \nPlease read /help \n"
+            "**FCUK**! what have you entered. \nPlease contact @sangwanakshay for help \n"
             f"<b>API Error</b>: {cf_name}"
         )
 #
@@ -151,7 +151,7 @@ async def incoming_gdrive_message_f(client, message):
         )
     else:
         await i_m_sefg.edit_text(
-            "**FCUK**! wat have you entered. \nPlease read /help \n"
+            "**FCUK**! what have you entered. \nPlease contact @sangwnakshay for help \n"
             f"<b>API Error</b>: {cf_name}"
         )
 
@@ -206,7 +206,7 @@ async def incoming_youtube_dl_f(client, message):
             )
     else:
         await i_m_sefg.edit_text(
-            "**FCUK**! wat have you entered. \nPlease read /help \n"
+            "**FCUK**! what have you entered. \nPlease contact @sangwanakshay for help \n"
             f"<b>API Error</b>: {cf_name}"
         )
 #playlist
